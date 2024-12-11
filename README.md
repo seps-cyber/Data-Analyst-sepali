@@ -1,4 +1,3 @@
-# Data-Analyst-sepali
 # Academic Section Hiring and Appointment: Cloud Computing Project
 
 ## Project Overview
@@ -27,28 +26,5 @@ The following AWS services were utilized to develop and manage this project:
 1. **Data Ingestion**: The dataset was uploaded to an Amazon S3 bucket for secure storage.
 2. **Data Transformation**:
    - AWS Glue was used to clean and prepare the dataset.
-   - ETL pipelines were designed to process the data.
-3. **Data Analysis**: Custom Lambda functions were created to extract key metrics from the processed data.
-4. **Monitoring and Alerts**:
-   - Amazon CloudWatch Dashboards were configured to visualize system performance.
-   - Alarms were set to notify stakeholders of anomalies or issues.
-5. **Network Security**:
-   - Amazon VPC was implemented to isolate resources securely.
-   - CloudTrail logs were reviewed for security and compliance auditing.
-6. **Visualization**: Dashboards were created using Amazon QuickSight to present actionable insights.
+   - ETL pipelines were designed to process the
 
-## Deliverables
-- **AWS Configuration Screenshots**: Uploaded in the `/screenshots` directory.
-- **Code Repository**: Contains the scripts for AWS Glue and Lambda functions.
-- **Documentation**: Detailed explanations of processes, methodologies, and configurations.
-- **Monitoring Dashboards**: Screenshots and configurations for CloudWatch dashboards.
-
-## Conclusion
-This project showcases the integration of AWS cloud computing tools to optimize and monitor a critical business process. The result is a highly automated, secure, and efficient system capable of handling academic hiring and appointment datasets.
-
----
-
-## How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/academic-hiring-cloud-project.git
