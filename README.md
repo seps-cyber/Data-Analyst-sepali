@@ -41,7 +41,7 @@ Explore the live webpage showcasing this project:
 [Project Webpage](https://seps-cyber.github.io/Data-Analyst-sepali/)
 
 Additionally, screenshots and diagrams have been added for better understanding and visualization:
-- **Screenshots Folder**: [Screenshots](https://github.com/yourusername/academic-hiring-cloud-project/screenshots)
+- **Screenshots Folder**: [Create data catalog.png](https://github.com/yourusername/academic-hiring-cloud-project/Create data catalog.png)
 - **Architecture Diagram**: [Draw.io Diagram](https://github.com/yourusername/academic-hiring-cloud-project/diagrams/architecture.drawio)
 
 ## Screenshots
