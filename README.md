@@ -40,16 +40,21 @@ The following AWS services were utilized to develop and manage this project:
 Explore the live webpage showcasing this project:
 [Project Webpage](https://seps-cyber.github.io/Data-Analyst-sepali/)
 
-Additionally, screenshots and diagrams have been added for better understanding and visualization:
-- **Screenshots Folder**: [Create data catalog.png](https://github.com/yourusername/academic-hiring-cloud-project/Create data catalog.png)
-- **Architecture Diagram**: [Draw.io Diagram](https://github.com/yourusername/academic-hiring-cloud-project/diagrams/architecture.drawio)
+Additionally, screenshots and diagrams have been added for better un
+derstanding and visualization:
 
 ## Screenshots
+The Graphical show case of projeect
+![Screenshot 2024-12-11 210512](https://github.com/user-attachments/assets/7f571dfe-5929-46f2-b6ad-48e167fc56f5)
+
+
 The following screenshots are included in the `/screenshots` folder to demonstrate the implementation and outcomes:
-1. **Amazon S3**:
+1. **Amazon S3**:![Screenshot 2024-10-28 000747](https://github.com/user-attachments/assets/c2695247-6d0e-434a-a137-a1a143c3dc83)
+
    - Dataset files uploaded to the bucket.
    - Bucket permissions configuration.
-2. **AWS Glue**:
+2. **AWS Glue**:![Screenshot 2024-12-11 200021](https://github.com/user-attachments/assets/a668896c-9fbd-4ef9-9799-e4417c089d08)
+
    - ETL job workflow and job history.
 3. **AWS Lambda**:
    - Function configuration and execution logs.
@@ -61,7 +66,8 @@ The following screenshots are included in the `/screenshots` folder to demonstra
    - Event logs for activities and auditing.
 7. **Amazon QuickSight**:
    - Dashboards and insights visualizations.
-8. **General AWS Management Console**:
+8. **General AWS Management Console**:![Screenshot 2024-12-11 200110](https://github.com/user-attachments/assets/018d8614-32ee-472d-88de-2b12bece25b0)
+
    - Summary view of all project-related resources.
 
 ## Architecture Diagram
@@ -92,6 +98,6 @@ The editable `.drawio` file is also available in the `/diagrams` folder for furt
 4. Read the documentation for detailed insights into the project methodology.
 
 ## Contact
-For questions or feedback, feel free to contact me via [your email] or through GitHub Issues.
+For questions or feedback, feel free to contact me via Sepali.weeraseka5783@myucw.ca or through GitHub Issues.
 
 
